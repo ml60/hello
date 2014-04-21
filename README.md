@@ -1,1 +1,1 @@
-Hello world, go
+Hello go
